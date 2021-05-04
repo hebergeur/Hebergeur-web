@@ -1,4 +1,4 @@
 # Hebergeur
 
-`hébergeur` = _Germ._ "Host"
+`hébergeur` = _Germ._ "**Host**"
 
